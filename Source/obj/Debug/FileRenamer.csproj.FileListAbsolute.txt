@@ -1,0 +1,9 @@
+C:\Users\Noe\Desktop\rename\Rename\Source\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Noe\Desktop\rename\Rename\Source\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Noe\Desktop\rename\Rename\Source\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Noe\Desktop\rename\Rename\Source\obj\Debug\FileRenamer.csprojResolveAssemblyReference.cache
+C:\Users\Noe\Desktop\rename\Rename\Source\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Noe\Desktop\rename\Rename\Source\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Noe\Desktop\rename\Rename\Source\obj\Debug\FileRenamer.csproj.GenerateResource.Cache
+C:\Users\Noe\Desktop\rename\Rename\Source\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Noe\Desktop\rename\Rename\Source\obj\Debug\WindowsFormsApplication2.pdb
